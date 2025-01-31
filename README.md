@@ -14,7 +14,7 @@ $ python GitAutomation.py --help
 
 ## Requirements
 * Python, Git, GitHub Account + GitHub access token
-* Create .env file where your GitAutomation.py
+* Create .env file where your GitAutomation.py saved
 * Update variables `REPO_PATH`,`GITHUB_URL`, `GITHUB_USER` and `GITHUB_TOKEN` details in the .env file.
 * GITHUB_TOKEN="YOUR_GITHUB_TOKEN"
 * GITHUB_USER="YOUR_GITIUSERNAME"
